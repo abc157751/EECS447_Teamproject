@@ -1,0 +1,17 @@
+Date: February 14, 2025
+
+Time: 1:00pm - 2:00pm
+
+Location: Discord voice call meeting
+
+Objective: Create a vision statement and project plan for term project
+
+Team Member present: Henry R Chaffin, Blake M Jesse, Lingfeng Li, Ian B Lim, Kenny Meade, Connor C Schroeder
+
+Tasks Allocated: 
+	Kenny: Develop meeting log, contribute to Vision/Plan document.
+	Connor: Contribute to Vision/Plan document.
+	Ian: Contribute to Vision/Plan document.
+	Blake: Contribute to Vision/Plan document.
+	Henry: Contribute to Vision/Plan document.
+	Lingfeng: Set up github repository, Contribute to Vision/Plan document.
