@@ -1,11 +1,7 @@
 Date: February 14, 2025
-
 Time: 1:00pm - 2:00pm
-
 Location: Discord voice call meeting
-
 Objective: Create a vision statement and project plan for term project
-
 Team Member present: Henry R Chaffin, Blake M Jesse, Lingfeng Li, Ian B Lim, Kenny Meade, Connor C Schroeder
 
 Tasks Allocated: 
@@ -15,3 +11,37 @@ Tasks Allocated:
 	Blake: Contribute to Vision/Plan document.
 	Henry: Contribute to Vision/Plan document.
 	Lingfeng: Set up github repository, Contribute to Vision/Plan document.
+
+
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+
+Date: February 28, 2025
+Time: 1:00pm - 2:00pm
+Location: Discord voice call meeting
+Objective: Brainstorm requirements and finalize requirements document
+Team Members present: Henry R Chaffin, Blake M Jesse, Lingfeng Li, Ian B Lim, Kenny Meade, Connor C Schroeder
+
+Task Completion Confirmation:
+	Kenny: Develop meeting log, contribute to Vision/Plan document. (Completed)
+	Connor: Contribute to Vision/Plan document. (Completed)
+	Ian: Contribute to Vision/Plan document. (Completed)
+	Blake: Contribute to Vision/Plan document. (Completed)
+	Henry: Contribute to Vision/Plan document. (Completed)
+	Lingfeng: Set up github repository, Contribute to Vision/Plan document. (Completed)
+
+Discussion:
+	Brainstormed stakeholders, requirements, and hardware/software requirements. 
+	Discussed how to structure meeting logs going forward
+	Finalized most sections of the requirements document
+
+Tasks Allocated: 
+	Kenny: Complete stakeholder section of requirements document. (Due March 2, 2025)
+	Connor: Complete hardware/software section of requirements document. (Due March 2, 2025)
+	Ian: Complete data entities section of requirements document. (Due March 2, 2025)
+	Blake: Complete functional requirements section of requirements document. (Due March 2, 2025)
+	Henry: Complete non-functional requirements section of requirements document. (Due March 2, 2025)
+	Lingfeng: Complete introduction section of requirements document. (Due March 2, 2025)
+
+Follow-Up Actions:
+	Ensure each part is completed by the due date of March 2, and schedule a meeting before the next deadline to discuss how to continue the project.
