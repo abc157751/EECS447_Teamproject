@@ -57,24 +57,24 @@ Objective: Brainstorm attributes, relationships, and entities that will be used 
 Team Members present: Henry R Chaffin, Blake M Jesse, Lingfeng Li, Ian B Lim, Kenny Meade, Connor C Schroeder
 
 Task Completion Confirmation:
-Kenny: Complete stakeholder section of requirements document. (Complete)
-Connor: Complete hardware/software section of requirements document. (Complete)
-Ian: Complete data entities section of requirements document. (Complete)
-Blake: Complete functional requirements section of requirements document. (Complete)
-Henry: Complete non-functional requirements section of requirements document. (Complete)
-Lingfeng: Complete introduction section of requirements document. (Complete)
+	Kenny: Complete stakeholder section of requirements document. (Complete)
+	Connor: Complete hardware/software section of requirements document. (Complete)
+	Ian: Complete data entities section of requirements document. (Complete)
+	Blake: Complete functional requirements section of requirements document. (Complete)
+	Henry: Complete non-functional requirements section of requirements document. (Complete)
+	Lingfeng: Complete introduction section of requirements document. (Complete)
 
 Discussion:
-Began brainstorming attributes, entities, and relationships
-Assigned a portion of the document for everyone to finish before the next meeting
+	Began brainstorming attributes, entities, and relationships
+	Assigned a portion of the document for everyone to finish before the next meeting
 
 Tasks Allocated: 
-Kenny: Identify entities (Due March 14, 2025)
-Connor: Define relationships (Due March 14, 2025)
-Ian: Define attributes (Due March 14, 2025)
-Blake: Define relationships (Due March 14, 2025)
-Henry: Identify entities (Due March 14, 2025)
-Lingfeng: Define attributes (Due March 14, 2025)
+	Kenny: Identify entities (Due March 14, 2025)
+	Connor: Define relationships (Due March 14, 2025)
+	Ian: Define attributes (Due March 14, 2025)
+	Blake: Define relationships (Due March 14, 2025)
+	Henry: Identify entities (Due March 14, 2025)
+	Lingfeng: Define attributes (Due March 14, 2025)
 
 Follow-Up Actions:
 	Make sure everyone completes their portion of the text document so we can have a smooth process in setting up the ER diagram during our follow-up meeting next week.
@@ -90,23 +90,23 @@ Objective: Complete the ER diagram using our list of attributes, entities, and r
 Team Members present: Henry R Chaffin, Blake M Jesse, Lingfeng Li, Ian B Lim, Kenny Meade
 
 Task Completion Confirmation:
-Kenny: Identify entities (Complete)
-Connor: Define relationships (Complete)
-Ian: Define attributes (Complete)
-Blake: Define relationships (Complete)
-Henry: Identify entities (Complete)
-Lingfeng: Define attributes (Complete)
-
+	Kenny: Identify entities (Complete)
+	Connor: Define relationships (Complete)
+	Ian: Define attributes (Complete)
+	Blake: Define relationships (Complete)
+	Henry: Identify entities (Complete)
+	Lingfeng: Define attributes (Complete)
+	
 Discussion:
-Applied our list of entities, attributes, and relationships to build the ER diagram
+	Applied our list of entities, attributes, and relationships to build the ER diagram
 
 Tasks Allocated: 
-Kenny: Contribute to finalizing the ER diagram (Due March 16, 2025)
-Connor: Contribute to finalizing the ER diagram (Due March 16, 2025)
-Ian: Contribute to finalizing the ER diagram (Due March 16, 2025)
-Blake: Contribute to finalizing the ER diagram (Due March 16, 2025)
-Henry: Contribute to finalizing the ER diagram (Due March 16, 2025)
-Lingfeng: Contribute to finalizing the ER diagram (Due March 16, 2025)
-
+	Kenny: Contribute to finalizing the ER diagram (Due March 16, 2025)
+	Connor: Contribute to finalizing the ER diagram (Due March 16, 2025)
+	Ian: Contribute to finalizing the ER diagram (Due March 16, 2025)
+	Blake: Contribute to finalizing the ER diagram (Due March 16, 2025)
+	Henry: Contribute to finalizing the ER diagram (Due March 16, 2025)
+	Lingfeng: Contribute to finalizing the ER diagram (Due March 16, 2025)
+	
 Follow-Up Actions:
 	We are doing most of the ER diagram during our meeting. We will simply review the document over the weekend before turning it in on Sunday.
