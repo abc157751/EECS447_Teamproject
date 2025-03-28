@@ -110,3 +110,36 @@ Tasks Allocated:
 	
 Follow-Up Actions:
 	We are doing most of the ER diagram during our meeting. We will simply review the document over the weekend before turning it in on Sunday.
+
+
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+
+Date: March 28, 2025
+Time: 1:00pm - 2:00pm
+Location: Discord voice call meeting
+Objective: Complete the relationship schema daigram and tables ofr project part 4
+Team Members present: Henry R Chaffin, Blake M Jesse, Lingfeng Li, Ian B Lim, Kenny Meade
+
+Task Completion Confirmation:
+	Kenny: Contribute to finalizing the ER diagram (Complete)
+	Connor: Contribute to finalizing the ER diagram (Complete)
+	Ian: Contribute to finalizing the ER diagram (Complete)
+	Blake: Contribute to finalizing the ER diagram (Complete)
+	Henry: Contribute to finalizing the ER diagram (Complete)
+	Lingfeng: Contribute to finalizing the ER diagram (Complete)
+	
+Discussion:
+	Created and worked on the documents for the relation schema diagram and data dictionary diagram. 
+
+Tasks Allocated: 
+	Kenny: Create relation schema diagram (Due March 28, 2025)
+	Connor: Create relation schema diagram (Due March 28, 2025)
+	Ian: Create data dictionary tables (Due March 28, 2025)
+	Blake: Create data dictionary tables (Due March 28, 2025)
+	Henry: Create relation schema diagram (Due March 28, 2025)
+	Lingfeng: Create data dictionary tables (Due March 28, 2025)
+	
+Follow-Up Actions:
+	Since we are getting this done during the meeting me just need to make sure it's turned in before Sunday.
+
