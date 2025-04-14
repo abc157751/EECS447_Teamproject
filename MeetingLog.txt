@@ -162,7 +162,9 @@ Task Completion Confirmation:
 	Lingfeng: Create data dictionary tables (Complete)
 	
 Discussion:
-	We helped each other get the mySQL software installed to ensure everyone has the capability to work on the project. After that, we assigned data population tasks for all of the data that has no/few dependencies so we can finish the rest of the data population next week.
+	We helped each other get the mySQL software installed to ensure everyone has the capability to work on the project. After that, we
+	assigned data population tasks for all of the data that has no/few dependencies so we can finish the rest of the data population
+	next week.
 
 Tasks Allocated: 
 	Kenny: Populate Book and Copy data (Due April 18, 2025)
@@ -173,6 +175,7 @@ Tasks Allocated:
 	Lingfeng: Handle integrity checking (Due April 18, 2025)
 	
 Follow-Up Actions:
-	Make sure we are communicating during these tasks since some of the data has dependencies i.e. foreign keys. Next week we will combine the data and determine the rest of the data that we need to fill before the final deadline. 
+	Make sure we are communicating during these tasks since some of the data has dependencies i.e. foreign keys. Next week we will
+	combine the data and determine the rest of the data that we need to fill before the final deadline. 
 
 
