@@ -91,7 +91,7 @@ Team Members present: Henry R Chaffin, Blake M Jesse, Lingfeng Li, Ian B Lim, Ke
 
 Task Completion Confirmation:
 	Kenny: Identify entities (Complete)
-	Connor: Define relationships (Complete)
+	Connor: Define relationships (---)
 	Ian: Define attributes (Complete)
 	Blake: Define relationships (Complete)
 	Henry: Identify entities (Complete)
@@ -123,7 +123,7 @@ Team Members present: Henry R Chaffin, Blake M Jesse, Lingfeng Li, Ian B Lim, Ke
 
 Task Completion Confirmation:
 	Kenny: Contribute to finalizing the ER diagram (Complete)
-	Connor: Contribute to finalizing the ER diagram (Complete)
+	Connor: Contribute to finalizing the ER diagram (---)
 	Ian: Contribute to finalizing the ER diagram (Complete)
 	Blake: Contribute to finalizing the ER diagram (Complete)
 	Henry: Contribute to finalizing the ER diagram (Complete)
@@ -142,4 +142,37 @@ Tasks Allocated:
 	
 Follow-Up Actions:
 	Since we are getting this done during the meeting me just need to make sure it's turned in before Sunday.
+
+
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+
+Date: April 11, 2025
+Time: 1:00pm - 2:00pm
+Location: Discord voice call meeting
+Objective: Make sure everyone has access to the software snd assign data population tasks
+Team Members present: Henry R Chaffin, Blake M Jesse, Lingfeng Li, Ian B Lim, Kenny Meade
+
+Task Completion Confirmation:
+	Kenny: Create relation schema diagram (Complete)
+	Connor: Create relation schema diagram (---)
+	Ian: Create data dictionary tables (Complete)
+	Blake: Create data dictionary tables (Complete)
+	Henry: Create relation schema diagram (Complete)
+	Lingfeng: Create data dictionary tables (Complete)
+	
+Discussion:
+	We helped each other get the mySQL software installed to ensure everyone has the capability to work on the project. After that, we assigned data population tasks for all of the data that has no/few dependencies so we can finish the rest of the data population next week.
+
+Tasks Allocated: 
+	Kenny: Populate Book and Copy data (Due April 18, 2025)
+	Connor: Populate Reservation and Fine data (Due April 18, 2025)
+	Ian: Populate Digital Media and Reports data (Due April 18, 2025)
+	Blake: Populate Magazine and Transaction data (Due April 18, 2025)
+	Henry: Populate Client, Staff, and Membership data (Due April 18, 2025)
+	Lingfeng: Handle integrity checking (Due April 18, 2025)
+	
+Follow-Up Actions:
+	Make sure we are communicating during these tasks since some of the data has dependencies i.e. foreign keys. Next week we will combine the data and determine the rest of the data that we need to fill before the final deadline. 
+
 
